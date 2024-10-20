@@ -1,0 +1,47 @@
+.bod{
+    height: 500px;
+    width: 58% !important;
+    background-color: rgb(0, 0, 0);
+    margin-left: 70%;
+    margin-top: 30%;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 2%;
+}
+
+.inp-sty{
+    width: 90% !important;
+    height: 60px;
+}
+
+.btn{
+    height: 50px;
+    width: 70px;
+    padding: 3%;
+    font-size: 40px;
+    margin-top: 20px;
+    color: wheat !important;
+    border-radius: 10% !important;
+    /* border: 6% solid rgb(204, 153, 57) !important; */
+    background-color: rgb(54, 44, 44) !important;
+} */
+
+/* .body-row{
+padding: 1%;
+margin-top: 10px;
+margin-left: 10%;
+} */
+
+/* .row-main{
+    margin-bottom: -30%;
+} */
+
+ body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: gray !important; */
+    
+}
+
